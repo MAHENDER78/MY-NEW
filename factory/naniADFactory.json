@@ -1,0 +1,9 @@
+{
+	"name": "naniADFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "47885540-2d0f-4447-bddf-4ab11544e419",
+		"tenantId": "0e34b763-2a93-4a98-b4dd-44ebc3c56174"
+	}
+}
