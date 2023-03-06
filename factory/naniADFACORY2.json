@@ -1,0 +1,9 @@
+{
+	"name": "naniADFACORY2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "10bfe7d9-ae54-4ab9-99d1-a627faab13cb",
+		"tenantId": "0e34b763-2a93-4a98-b4dd-44ebc3c56174"
+	}
+}
